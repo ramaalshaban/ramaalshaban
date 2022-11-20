@@ -17,7 +17,7 @@
  
  </p>
 
-<p align="center"> 
+<p align="center"> <small>
 <h3 align="center">Back End related Tools and Technologies:</h3>
 
  [![Figma-shield]][figma-link]
@@ -41,7 +41,7 @@
  [![twitter-shield]][twitter-link]
  [![firebase-shield]][firebase-link]
  [![husky-shield]][husky-link]
-
+ </small>
 </p>
 
 <!-- Links -->
