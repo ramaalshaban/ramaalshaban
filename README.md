@@ -12,7 +12,7 @@ Fork on GitHub3501
 
 - 👯 I’m looking to collaborate on **Backend development projects**
 
-- ⚡ Fun fact **Interestid in ma**
+- ⚡ Fun fact 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
