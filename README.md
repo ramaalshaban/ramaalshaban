@@ -8,8 +8,6 @@ Fork on GitHub3501
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramaalshaban&label=Profile%20views&color=0e75b6&style=flat" alt="ramaalshaban" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramaalshaban" alt="ramaalshaban" /></a> </p>
-
 - 🌱 I’m currently learning **Data Scientist with Python on datacamp**
 
 - 👯 I’m looking to collaborate on **Backend development projects**
