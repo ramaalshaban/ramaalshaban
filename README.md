@@ -8,11 +8,13 @@ Fork on GitHub3501
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramaalshaban&label=Profile%20views&color=0e75b6&style=flat" alt="ramaalshaban" /> </p>
 
+- ⚡ I’m interested in **Backend development and Data Science**
+
 - 🌱 I’m currently learning **Data Scientist with Python on datacamp**
 
 - 👯 I’m looking to collaborate on **Backend development projects**
 
-- ⚡ Fun fact 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
